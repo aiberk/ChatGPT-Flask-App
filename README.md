@@ -1,5 +1,9 @@
 # ChatGPT-Flask-App
 
+### Requirements
+
+- Python 3
+
 ### Installation Commands
 
 - pip3 install flask
